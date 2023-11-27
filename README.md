@@ -10,19 +10,17 @@ Deploy on: <a href="https://airdrophunter-page.vercel.app/">Vercel<a>
 
 ## Screenshots:
 
-Homepage: header, news-block, slider with logos, list with projects
+Homepage: header, news-block, slider with logos, below - list with projects.
 
 ![Home-Page](/public/assets/homepage.png)
 
-Anchor-Links: navbar with links
+News-block: can be shown or hidden
 
 ![Hidden](/public/assets/news%20hidden.png)
 
-News-block: can be shown or hidden
+Anchor-Links: navbar with links
 
 ![Anchor](/public/assets/anchor-links.png)
-
-Searching: search by title, user or keyword in the description
 
 ## Stack:
 
