@@ -1,0 +1,27 @@
+{
+  "result": {
+    "news": [
+      {
+        "id": 1,
+        "title": "Starknet is a decentralized Validity-Rollup often referred",
+        "shortTitle": "Starknet",
+        "body": "Starknet is a decentralized Validity-Rollup (often referred to as ZK-Rollup).It operates as a Layer 2 network over Ethereum. Starknet is a decentralized Validity-Rollup Starknet is a decentralized Validity-Rollup (often referred to as ZK-Rollup). It operates as a Layer 2 network over Ethereum. Starknet is a decentralized Validity-Rollup",
+        "date": "Today  · 15:24 "
+      },
+      {
+        "id": 2,
+        "title": "Molestias suntaut nesciunt",
+        "shortTitle": "Molestias",
+        "body": "Et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+        "date": "Today  · 16:45 "
+      },
+      {
+        "id": 3,
+        "title": "Dignissimos aperiam dolorem",
+        "shortTitle": "Dignissimos",
+        "body": "Repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+        "date": "Today  · 17:55 "
+      }
+    ]
+  }
+}

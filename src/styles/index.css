@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+@import url('./variables.css');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+  margin: 0 auto;
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
+
+p,
+h2,
+h3,
+h5 {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bg-blue {
+  background-color: var(--bg-color-blue);
+}
+
+.bg-grey {
+  background-color: var(--bg-color-grey);
+}
+
+.bg-white {
+  background-color: var(--bg-color-white);
+}
+
+.color-grey {
+  color: var(--grey);
+}
+
+.color-blue {
+  color: var(--blue);
+}
+
+.btn-light {
+  background-color: var(--light-grey);
+}
+
+.btn-light:hover {
+  background-color: var(--hovered);
+}
+
+.btn-light:hover #Line_63,
+.btn-light:hover #Line_64,
+.btn-light:hover #Line_65 {
+  stroke: white;
+}
+
+.project-logo {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.project-logo:hover {
+  background-color: var(--bg-color-blue);
+}
+
+.btn-deposit {
+  color: var(--bg-color-white);
+}
+
+.btn-deposit:hover {
+  background-color: var(--bg-color);
+  border-color: var(--bg-color-blue);
+  color: var(--bg-color-blue);
+}
+
+.btn-outline-info {
+  background-color: var(--btn-buy-color);
+  color: var(--bg-color-blue);
+  border-color: var(--bg-color-blue);
+  width: 100%;
+}
+
+.btn-outline-info:hover {
+  background-color: var(--bg-color-blue);
+  color: var(--bg-color-white);
+}
+
+.custom-shadow {
+  box-shadow: 0px 10px 10px 5px var(--bg-color);
+}
+
+.project-info {
+  scroll-behavior: smooth;
+  scroll-margin-top: 6rem;
+}
+
+.news-content {
+  height: 400px;
+}
+
+@media (width <= 980px) {
+  .news-content {
+    height: 700px;
+  }
+}
